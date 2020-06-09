@@ -1,0 +1,13 @@
+D:\Thiago\Projetos\C#\AulaPOOUber\bin\Debug\netcoreapp3.1\AulaPOOUber.exe
+D:\Thiago\Projetos\C#\AulaPOOUber\bin\Debug\netcoreapp3.1\AulaPOOUber.deps.json
+D:\Thiago\Projetos\C#\AulaPOOUber\bin\Debug\netcoreapp3.1\AulaPOOUber.runtimeconfig.json
+D:\Thiago\Projetos\C#\AulaPOOUber\bin\Debug\netcoreapp3.1\AulaPOOUber.runtimeconfig.dev.json
+D:\Thiago\Projetos\C#\AulaPOOUber\bin\Debug\netcoreapp3.1\AulaPOOUber.dll
+D:\Thiago\Projetos\C#\AulaPOOUber\bin\Debug\netcoreapp3.1\AulaPOOUber.pdb
+D:\Thiago\Projetos\C#\AulaPOOUber\obj\Debug\netcoreapp3.1\AulaPOOUber.csprojAssemblyReference.cache
+D:\Thiago\Projetos\C#\AulaPOOUber\obj\Debug\netcoreapp3.1\AulaPOOUber.csproj.CoreCompileInputs.cache
+D:\Thiago\Projetos\C#\AulaPOOUber\obj\Debug\netcoreapp3.1\AulaPOOUber.AssemblyInfoInputs.cache
+D:\Thiago\Projetos\C#\AulaPOOUber\obj\Debug\netcoreapp3.1\AulaPOOUber.AssemblyInfo.cs
+D:\Thiago\Projetos\C#\AulaPOOUber\obj\Debug\netcoreapp3.1\AulaPOOUber.dll
+D:\Thiago\Projetos\C#\AulaPOOUber\obj\Debug\netcoreapp3.1\AulaPOOUber.pdb
+D:\Thiago\Projetos\C#\AulaPOOUber\obj\Debug\netcoreapp3.1\AulaPOOUber.genruntimeconfig.cache
